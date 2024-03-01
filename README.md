@@ -1,2 +1,2 @@
-# CMU
-Sample Hospital CMU
+# CRM
+Sample Hospital CRM
